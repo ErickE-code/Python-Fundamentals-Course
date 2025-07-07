@@ -1,7 +1,7 @@
-# Python-Fundamentals-Course
+# Python-Fundamentals-Bootcamp
 This repository contains the exercises and projects completed during the Python Fundamentals bootcamp at Utel (UCAMP)
 
-## Class Excersices
+## Class_Excersices
 It conttains the exercises made as homework/challenges
 
 ## Project_1
